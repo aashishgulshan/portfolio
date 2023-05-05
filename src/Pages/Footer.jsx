@@ -1,7 +1,5 @@
 import React from 'react';
 import { BsFacebook, BsLinkedin, BsInstagram, BsGithub} from 'react-icons/bs';
-import { FaHeart} from 'react-icons/fa';
-
 
 export default function Footer() {
   return (
