@@ -8,7 +8,7 @@ export default function Footer() {
       <div className='flex gap-2 justify-center items-center text-2xl p-2'>
         <a className=' text-zinc-50 hover:bg-gray-700 hover:text-yellow-300 hover:scale-125' href="https://www.linkedin.com/in/aashish-gulshan/" target="_blank"><BsLinkedin/></a>
         <a className=' text-zinc-50 hover:bg-gray-700 hover:text-yellow-300 hover:scale-125' href="https://www.facebook.com/IamAsgn37" target="_blank"><BsFacebook/></a>
-        <a className=' text-zinc-50 hover:bg-gray-700 hover:text-yellow-300 hover:scale-125' href="https://github.com/IamAsgn37" target="_blank"><BsGithub/></a>
+        <a className=' text-zinc-50 hover:bg-gray-700 hover:text-yellow-300 hover:scale-125' href="https://github.com/aashishgulshan" target="_blank"><BsGithub/></a>
         <a className=' text-zinc-50 hover:bg-gray-700 hover:text-yellow-300 hover:scale-125' href="https://www.instagram.com/aashish_gulshan/" target="_blank"><BsInstagram/></a>
       </div>
       <p>©2023 by Aashish Gulshan. Made with ❤️ in India</p>
